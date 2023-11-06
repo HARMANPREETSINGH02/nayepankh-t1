@@ -1,0 +1,30 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background: url(Screenshot\ \(29\).png) center/cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sign-in, .sign-up {
+  margin: 10px 0;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+}
+
+.validation-message {
+  color: red;
+}
